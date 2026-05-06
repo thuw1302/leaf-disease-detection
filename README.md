@@ -25,5 +25,3 @@ Helps detect plant diseases for agricultural support.
 2. Run all cells
 3. Upload an image to test prediction
 
-## 🔗 Demo
-(Add your Colab link here)
